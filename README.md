@@ -4,3 +4,5 @@ Union's repository for Intermediate Computer Graphics Course. This was created f
 [Kanban Chart](https://trello.com/b/b2cT5CFa/union-kanban-board)
 
 [Elevator Pitch](https://www.youtube.com/watch?v=UAmpkOjtAMo)
+
+[GDW Union Repo](https://github.com/J-Hep/Union-Vanguard-Game)
